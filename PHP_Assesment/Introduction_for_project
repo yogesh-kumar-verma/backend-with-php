@@ -1,0 +1,7 @@
+###############---Introduction to Files------#################
+1.ScreenShot folder contains all the screenshots of project while runninng like during filter 
+  filter result showing full databases etc.
+  
+2.Second folder contains source code and extra folder for the further imporvements and addon 
+  server is running on localhost and databse used localhost instead of 127.0.0.1 
+  
